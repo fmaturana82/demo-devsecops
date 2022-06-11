@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: demo-devsecops
+server:
+  port: 9089
